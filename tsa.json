@@ -1,0 +1,45 @@
+{
+    "data": [
+        {
+            "id": "793ca9dd-4681-4b82-87af-b6c8b056a0a1",
+            "name": "t",
+            "desc": "昼夜作业小时数",
+            "type": 1,
+            "value": 24,
+            "formula_id": "",
+            "create_by": "2024-06-07 16:57:43",
+            "remark": "备注信息1"
+        },
+        {
+            "id": "d8be33e3-7403-4298-a756-12131ee167c1",
+            "name": "Gd",
+            "desc": "24小时输送量t",
+            "type": 2,
+            "value": 0,
+            "formula_id": "",
+            "create_by": "2024-06-07 16:57:54",
+            "remark": "备注信息1"
+        },
+        {
+            "id": "b8a39a7a-87eb-4a87-83f2-0d2eb9c32f02",
+            "name": "K1",
+            "desc": "一般1.15,非常均匀1",
+            "type": 1,
+            "value": 1.15,
+            "formula_id": "",
+            "create_by": "2024-06-07 16:58:05",
+            "remark": "备注信息1"
+        },
+        {
+            "id": "48242291-145e-4871-87d8-8257724d0bcf",
+            "name": "K2",
+            "desc": "愿景发展，一般1.25",
+            "type": 1,
+            "value": 1.25,
+            "formula_id": "",
+            "create_by": "2024-06-07 16:58:13",
+            "remark": "备注信息1"
+        }
+    ],
+    "message": "success"
+}
